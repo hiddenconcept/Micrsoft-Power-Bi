@@ -1,2 +1,2 @@
 # Micrsoft-Power-Bi
-Coursera Microsoft Power Bi. WIll ttry and have them lined up
+Coursera Microsoft Power Bi. WIll try and have them lined up
