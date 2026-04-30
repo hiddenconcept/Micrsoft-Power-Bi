@@ -15,15 +15,25 @@ Real-world business scenarios and case studies
 Each folder in this directory represents a separate project and includes:
 
 .pbix file (Power BI report)
+
 Dataset used for the project
+
 Screenshots of dashboards (if applicable)
+
 Notes or key insights
+
 🛠 Tools & Skills
+
 Microsoft Power BI
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Visualization
+
 Business Intelligence Concepts
+
 🎯 Purpose
 
 This collection showcases my progress and hands-on experience with Power BI, focusing on turning raw data into meaningful insights and interactive dashboards.# Micrsoft-Power-Bi
