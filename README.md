@@ -5,11 +5,17 @@ This repository contains a collection of projects completed as part of the Micro
 The goal of this series was to build practical skills in data analysis, visualization, and business intelligence using Power BI.
 
 🔍 What’s Included
+
 Data cleaning and transformation using Power Query
+
 Data modeling and relationships
+
 DAX calculations and measures
+
 Interactive dashboards and reports
+
 Real-world business scenarios and case studies
+
 📁 Folder Structure
 
 Each folder in this directory represents a separate project and includes:
